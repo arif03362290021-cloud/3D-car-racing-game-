@@ -16,11 +16,12 @@ Make this README look like a top 1% GitHub repo. Use:
 8.  Professional tone
 
 #### MANDATORY SECTIONS AND HEADINGS
-## ✨ About The Game
-1-2 line pitch about the game.
+## ✨ About The Game:
+Velocity X: Pakistan Circuit is a high-speed, single-file 3D racing game built with Three.js. 
+Race on a pro circuit against AI opponents, master drifting and nitro, and compete for the best lap time — all directly in your browser with no installation required.
 
 ## 🎮 Play Now
-[Play Live Demo] - Add placeholder link
+[Play Live Demo](https://3-d-car-racing-game-wine.vercel.app)
 
 ## 🚀 Key Features
 Use ### for sub-headings: Gameplay, Graphics & UI, Controls
