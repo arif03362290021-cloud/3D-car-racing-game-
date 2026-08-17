@@ -1,5 +1,3 @@
-You are a Senior GitHub Developer and Technical Writer. Create a STUNNING, BEAUTIFUL, and PROFESSIONAL README.md file for my game repository.
-
 #### GAME DETAILS
 - Name: Velocity X: Pakistan Circuit
 - Developer: Syed Arif Shah
