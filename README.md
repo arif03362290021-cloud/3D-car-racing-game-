@@ -1,24 +1,53 @@
-You are a professional GitHub expert. Create a complete, high-quality README.md file for my 3D web game repository.
+You are a Senior GitHub Developer and Technical Writer. Create a STUNNING, BEAUTIFUL, and PROFESSIONAL README.md file for my game repository.
 
-GAME NAME: "Velocity X: Pakistan Circuit"
-DEVELOPER NAME: Syed Arif Shah
-GAME DESCRIPTION: A high-performance, single-file 3D web car racing game built with Three.js. 
-Features: Pro Home Menu, 3-Lap Circuit Race, 3 AI Opponent Cars, Realistic Physics, Drift, Nitro Boost, Speedometer HUD, Mini-map, Mobile + PC Controls, Win Screen.
+#### GAME DETAILS
+- Name: Velocity X: Pakistan Circuit
+- Developer: Syed Arif Shah
+- Description: A high-performance, single-file 3D web car racing game built with Three.js
+- Hackathon: Alibaba Cloud AI Hackathon Pakistan 2026 by Alkhidmat Foundation & Bano Qabil
 
-HACKATHON INFO:
-This project was developed for the Alibaba Cloud AI Hackathon Pakistan 2026
-Theme: "AI for Pakistan's Future"
-Organized by: Alkhidmat Foundation Pakistan & Bano Qabil Platform
+#### DESIGN REQUIREMENTS - IMPORTANT
+Make this README look like a top 1% GitHub repo. Use:
+1.  A big H1 Title with emojis and flags
+2.  Badges at the top: "Hackathon 2026", "Three.js", "Single File"
+3.  Clear sections with H2 ## and H3 ### headings
+4.  Tables for Tech Stack and Controls
+5.  Code blocks, bullet points, and emojis everywhere
+6.  A "Play Now" button style link
+7.  Horizontal rules --- between sections
+8.  Professional tone
 
-README REQUIREMENTS:
-1. Use proper markdown Headings: # ## ### 
-2. Start with # Game Name and 1 line description
-3. Add "🎮 Play Now: [Live Demo on Vercel]" placeholder
-4. Add "## ✨ Features" section with "### 🎯 Gameplay", "### 🎨 Graphics & UI", "### 🎮 Controls" as sub-headings
-5. Add "## 🚀 Tech Stack" section: HTML5, CSS3, JavaScript, Three.js
-6. Add "## 🏆 About This Project" section with Hackathon info
-7. Add "## ⚙️ How to Run Locally" section with git clone command
-8. Add "## 📂 Project Structure" with code block
-9. Add "## 👨‍💻 Developer" section with Name: Syed Arif Shah and LinkedIn placeholder
-10. Use emojis and professional formatting
-11. Output ONLY the complete README.md code inside a markdown code block. No extra explanation.
+#### MANDATORY SECTIONS AND HEADINGS
+## ✨ About The Game
+1-2 line pitch about the game.
+
+## 🎮 Play Now
+[Play Live Demo] - Add placeholder link
+
+## 🚀 Key Features
+Use ### for sub-headings: Gameplay, Graphics & UI, Controls
+
+## 🛠️ Tech Stack
+Use a markdown TABLE with 2 columns: Technology | Description
+
+## 🎮 Controls
+Use a markdown TABLE with 2 columns: Key/Button | Action
+
+## 🏆 Hackathon
+Explain about Alibaba Cloud AI Hackathon 2026
+
+## ⚙️ How To Run Locally
+Use numbered list and code block for git clone
+
+## 📂 Project Structure
+Use code block tree structure
+
+## 👨‍💻 Developer
+Syed Arif Shah
+Add LinkedIn and GitHub placeholder links
+
+## 📄 License
+MIT License
+
+#### OUTPUT RULE
+Output ONLY the complete README.md code inside one markdown code block. No extra text before or after.
